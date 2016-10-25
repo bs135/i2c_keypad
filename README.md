@@ -5,7 +5,7 @@
 ###### Ho Chi Minh City, October 25, 2016
 
 # Introduction
-This is a keymatrix board with i2c interface.
+I2CKeypad is a open key matrix board with i2c interface, using PCF8575TS for IO expand...
 
 # Images
 
