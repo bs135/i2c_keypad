@@ -8,13 +8,13 @@
 This is a keymatrix board with i2c interface.
 
 # Images
-![3D](https://raw.githubusercontent.com/bs135/i2c_keypad/master/resource/i2c_keypad_3D.PNG =500x)
 
-
-![Schematic](https://raw.githubusercontent.com/bs135/i2c_keypad/master/resource/i2c_keypad_schematic.PNG =500x)
-
-
-![Board](https://raw.githubusercontent.com/bs135/i2c_keypad/master/resource/i2c_keypad_board.PNG =500x)
+<img src="https://raw.githubusercontent.com/bs135/i2c_keypad/master/resource/i2c_keypad_3D.PNG" width="500">
+<br />
+<img src="https://raw.githubusercontent.com/bs135/i2c_keypad/master/resource/i2c_keypad_schematic.PNG" width="500">
+<br />
+<img src="https://raw.githubusercontent.com/bs135/i2c_keypad/master/resource/i2c_keypad_board.PNG" width="500">
+<br />
 
 # Help & Reference
 - [PCF8575 Datasheet](http://www.nxp.com/documents/data_sheet/PCF8575.pdf)
